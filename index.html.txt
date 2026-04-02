@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AboveTheBracket | Global News & Analysis</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Google Fonts for High-End Typography -->
+    <link href="https://googleapis.com" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Top Branding & Navigation -->
+    <header class="main-header">
+        <div class="top-nav">
+            <span class="date">Tuesday, April 2, 2026</span>
+            <div class="logo">AboveTheBracket</div>
+            <div class="user-actions">Subscribe | Log In</div>
+        </div>
+        <nav class="sticky-nav">
+            <ul>
+                <li><a href="#">World</a></li>
+                <li><a href="#">Politics</a></li>
+                <li><a href="#">Tech</a></li>
+                <li><a href="#">Science</a></li>
+                <li><a href="#">Health</a></li>
+                <li><a href="#">Style</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Parallax Hero Section -->
+    <section class="parallax-hero">
+        <div class="hero-overlay">
+            <div class="hero-content">
+                <span class="category">BREAKING NEWS</span>
+                <h1>The Future of Digital Sovereignty in 2026</h1>
+                <p>An in-depth look at how global networks are shifting toward localized control.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- News Grid Section -->
+    <main class="content-container">
+        <div class="news-grid">
+            <!-- Main Story -->
+            <article class="main-story">
+                <img src="https://unsplash.com" alt="News Image">
+                <h2>Economic Shifts: The New Global Market Standard</h2>
+                <p>As interest rates stabilize, emerging markets are seeing unprecedented growth...</p>
+            </article>
+
+            <!-- Sidebar/Secondary Stories -->
+            <aside class="side-stories">
+                <div class="story-item">
+                    <h3>Climate Tech: Innovations in Fusion Energy</h3>
+                    <p>Recent breakthroughs suggest a 2030 timeline for commercial use.</p>
+                </div>
+                <hr>
+                <div class="story-item">
+                    <h3>The Return of Physical Media</h3>
+                    <p>Why Gen Z is ditching streaming for vinyl and film.</p>
+                </div>
+                <hr>
+                <div class="story-item">
+                    <h3>Editorial: The Ethics of AI Journalism</h3>
+                    <p>Finding the balance between speed and human oversight.</p>
+                </div>
+            </aside>
+        </div>
+    </main>
+
+    <footer class="main-footer">
+        <p>&copy; 2026 AboveTheBracket. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
